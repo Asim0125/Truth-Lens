@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', function() {
 // ========================================
 
 const GROQ_CONFIG = {
-    API_KEY: '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',
+    API_KEY: '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',
     BASE_URL: 'https://api.groq.com/openai/v1/chat/completions',
     MODEL: 'llama3-8b-8192' // Free, fast model
 };
@@ -1310,5 +1310,6 @@ function showNotification(message, type = 'info') {
 // ========================================
 // 🚀 READY WITH GROQ AI!
 // ========================================
+
 
 console.log('🤖 TruthLens with Groq AI integration loaded successfully!');
