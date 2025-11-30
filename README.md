@@ -234,23 +234,6 @@ Created for the Eco-Innovation Challenge by:
 - **Institution**: PSIT Kanpur
 - **Focus**: Social good through misinformation detection
 
-## 📞 Support
-
-For hackathon-related questions:
-- Check the demo video for visual walkthrough
-- Review the code comments for implementation details
-- Test the application thoroughly before submission
-
-## 🏆 Hackathon Submission Checklist
-
-- [x] Working demo (frontend complete)
-- [x] GitHub repository with clean code
-- [ ] 2-3 minute demo video
-- [ ] Backend integration (in progress)
-- [x] Documentation and README
-- [x] Responsive design
-- [x] Professional UI/UX
-
 ---
 
 **Built with ❤️ for making the world more informed and sustainable.**
